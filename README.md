@@ -7,7 +7,7 @@
 <a href="#"><img title="YUKI BOT MULTI DEVICE" src="https://img.shields.io/badge/YUKI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/KingOfBear-YT1/NewSc2022"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=blue&style=flat-square"></a>
@@ -15,11 +15,11 @@
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/saipulanuar/YukiBot2022?color=red&style=flat-square"></a>
 </P>
 <p align="center">
-  <a href="https://github.com/saipulanuar/YukiBot2022#requirements">Requirements</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#instalasi">Installation</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#thanks-to">Thanks to</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#donate">Donate</a>
+  <a href="https://github.com/KingOfBear-YT1/NewSc2022#requirements">Requirements</a> •
+  <a href="https://github.com/KingOfBear-YT1/NewSc2022#instalasi">Installation</a> •
+  <a href="https://github.com/KingOfBear-YT1/NewSc2022#thanks-to">Thanks to</a> •
+  <a href="https://github.com/KingOfBear-YT1/NewSc2022#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/KingOfBear-YT1/NewSc2022#donate">Donate</a>
 </p>
 </div>
 ---
@@ -112,7 +112,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/saipulanuar/YukiBot2022
+git clone https://github.com/KingOfBear-YT1/NewSc2022
 cd YukiBot2022
 npm install
 npm update
@@ -129,7 +129,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/saipulanuar/YukiBot2022
+git clone https://github.com/KingOfBear-YT1/NewSc2022
 cd YukiBot2022
 yarn
 node .
